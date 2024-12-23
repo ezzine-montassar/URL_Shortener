@@ -1,5 +1,6 @@
-I.Introduction
 # URL_Shortener
+
+I.Introduction
 This is an application for storing shortened URLs. It consists of a web interface that serves as a graphical interface for the user, a C application for encoding and decoding URLs, and a database for mapping short and long URLs.
 
 Objective: Provide a fast and efficient URL shortening service.
